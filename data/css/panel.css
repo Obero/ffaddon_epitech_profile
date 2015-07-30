@@ -1,0 +1,19 @@
+.voffset0 { margin-top: 2px; }
+.voffset1 { margin-top: 5px; }
+.voffset2 { margin-top: 10px; }
+.voffset3 { margin-top: 15px; }
+.voffset4 { margin-top: 30px; }
+.voffset5 { margin-top: 40px; }
+.voffset6 { margin-top: 60px; }
+.voffset7 { margin-top: 80px; }
+.voffset8 { margin-top: 100px; }
+.voffset9 { margin-top: 130px; }
+.voffset10 { margin-top: 160px; }
+.voffset11 { margin-top: 200px; }
+
+.large-text {font-size: 1.2em;}
+.img-center {margin:0 auto;}
+
+#info_photo {margin-right: -35px; height: 177px;}
+
+#vmap {width: 140px; height: 180px; left: 50%; margin-left: -120px; margin-top: -30px;}

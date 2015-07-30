@@ -1,0 +1,8 @@
+{
+  "name": "epitech_profile",
+  "title": "Epitech Profile",
+  "description": "Simple profile viewer Firefox extension for Epitech school.",
+  "author": "Thibaut Royer (Obero)",
+  "license": "BSD 2-clause",
+  "version": "1.0"
+}
